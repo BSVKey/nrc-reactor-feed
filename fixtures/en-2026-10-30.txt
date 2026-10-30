@@ -1,0 +1,80 @@
+Event Notification Reports
+Event Notification Report for October 30, 2026
+
+U.S. Nuclear Regulatory Commission
+Operations Center
+
+EVENT REPORTS FOR
+10/29/2026 - 10/30/2026
+
+EVENT NUMBERS
+
+55519
+58474
+58504
+
+Agreement State
+Event Number: 55519
+Rep Org: TEXAS DEPT OF STATE HEALTH SERVICES
+Licensee: ALPHA TESTING LABS
+Region: 4
+City: Dallas   State: TX
+County:
+License #: L03411
+Agreement: Y
+Docket:
+Notification Date: 10/13/2021
+Event Date: 10/13/2021
+Last Update Date: 10/29/2026
+Emergency Class: Non Emergency
+10 CFR Section:
+Agreement State
+Person (Organization):
+ALEXANDER, RYAN (R4)
+ILTAB, (EMAIL)
+
+Event Text
+EN Revision Text: AGREEMENT STATE REPORT- LOST/STOLEN GAUGE
+
+On October 29, 2026, the Texas Department of State Health Services was notified that the stolen moisture density gauge had been recovered.
+
+Non-Agreement State
+Event Number: 58474
+Rep Org: US Army
+Licensee: US Army
+Region: 3
+City: Albany   State: GA
+County:
+License #: 21-32838-01
+Notification Date: 10/01/2026
+Event Date: 09/28/2026
+Last Update Date: 10/29/2026
+Emergency Class: Non Emergency
+10 CFR Section:
+30.50(b)(1) - Unplanned Contamination 20.2201(a)(1)(i) - Lost/Stolen LNM>1000x
+Person (Organization):
+NMSS_EVENTS_NOTIFICATION (EMAIL)
+
+Event Text
+EN Revision Text: UNPLANNED CONTAMINATION EVENT
+
+Four improved chemical agent detectors, each with a 15 mCi Ni-63 source, were shredded at an industrial shredder facility.
+
+Agreement State
+Event Number: 58504
+Rep Org: California Dept of Public Health
+Licensee: Kaiser Permanente Southern CA
+Region: 4
+City: Los Angeles   State: CA
+Notification Date: 10/22/2026
+Event Date: 10/21/2026
+Emergency Class: Non Emergency
+10 CFR Section:
+Agreement State
+
+Event Text
+AGREEMENT STATE REPORT - MEDICAL EVENT
+
+An underdose occurred during a Y-90 treatment; the activity was retained in the microcatheter tubing.
+
+Page Last Reviewed/Updated October 30, 2026, 05:17 am EDT
